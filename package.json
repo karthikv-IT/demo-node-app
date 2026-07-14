@@ -1,0 +1,14 @@
+{
+  "name": "demo-node-app",
+  "version": "1.0.0",
+  "description": "Sample Node.js app used for the Jenkins Freestyle CI lab (DVein Innovations DevOps Internship)",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "node --test"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
